@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\bin\\Release\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\obj\\Release\\net6.0\\build-gz\\1xGxK+xT.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\obj\\Release\\net6.0\\scopedcss\\bundle\\BlazorAppFireBaseDemo.styles.css",
+      "PackagePath": "staticwebassets\\BlazorAppFireBaseDemo.styles.css"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\obj\\Release\\net6.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\obj\\Release\\net6.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\Asp projects\\BlazorAppFireBaseDemo\\BlazorAppFireBaseDemo\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.BlazorAppFireBaseDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.BlazorAppFireBaseDemo.props",
+      "PackagePath": "build\\BlazorAppFireBaseDemo.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAppFireBaseDemo.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAppFireBaseDemo.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorAppFireBaseDemo.props",
+      "PackagePath": "buildTransitive\\BlazorAppFireBaseDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
